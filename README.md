@@ -1,6 +1,7 @@
 # Persian Admin panel (Ant Design)
 
 Parkopolo Admin panel
+```
     │   ├── public
     │   │   ├── index.html
     │   │   ├── favicon.png
@@ -30,8 +31,4 @@ Parkopolo Admin panel
     │   ├── .env
 ```
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/arefmdh>
